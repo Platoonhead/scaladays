@@ -1,0 +1,106 @@
+
+#jumbo {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width:100%;
+    height: auto;
+}
+
+.space{
+    width: 100%;
+    height: 50px;
+}
+
+  #map {
+        width: 100%;
+        height: 400px;
+        background-color: grey;
+      }
+.heading-design {
+      color:white;
+      font-family: 'Sofia Pro';
+      padding-top: 60px;
+      font-size: 36px;
+      text-align: center;
+
+} 
+.bracket-design{
+     font-family: 'Sofia Pro';
+     text-decoration-style: bold;
+        margin-top: -10px;
+     text-align: center;
+ } 
+.blue-heading {
+	font-family: 'Sofia Pro bold';
+	color: #1ab8dce6;
+}
+.center-class {
+	text-align: center;
+}
+.heading_style {
+	color:#CB0002;
+}
+
+.date1{
+    font-size: 15px;
+    color: #6a6a6a;
+}
+.justify-me { 
+text-align: justify;
+ }
+
+.data_font{
+    color: #6a6a6a;
+    font-family: "Montserrat",sans-serif;
+    font-size: 14px;
+}
+
+ .form-heading {
+  color: #00c0ff;
+  font-size: 25px;
+  margin-bottom: 30px ;
+ }
+
+.button-color {
+  background-color:  #00c0ff;
+  border-color: #00c0ff;
+ }
+
+.custom-heading{
+    font-size : 25px;
+}
+
+.second-heading{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.style-square{
+    font-size: 10px;
+    margin-right: 5px;
+    color:#00c0ff;
+}
+
+.socialm{
+    text-align: left;
+    font-size: 40px;
+}
+
+.padding_data{
+    margin-bottom: 40px;
+}
+
+.btn-cus{
+    width: 100%;
+    border-radius: 1px;
+    padding: 10px 0px;
+
+}
+
+label{
+    font-size: 13px;
+}
